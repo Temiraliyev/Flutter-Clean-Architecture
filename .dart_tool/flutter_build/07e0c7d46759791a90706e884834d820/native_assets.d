@@ -1,1 +1,0 @@
- /Users/furb-x/Documents/GitHub/Flutter-Clean-Architecture/.dart_tool/flutter_build/07e0c7d46759791a90706e884834d820/native_assets.yaml: 
